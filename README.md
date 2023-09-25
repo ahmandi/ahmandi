@@ -1,6 +1,6 @@
 ## Hi there 👋 !
 
-* Currently learning PHP
+* Currently learning C#
 * Striving to become the dev of my dreams !
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmandi&layout=compact&langs_count=7&theme=dracula)](https://github.com/ahmandi/github-readme-stats)
